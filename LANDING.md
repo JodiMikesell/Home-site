@@ -1,8 +1,7 @@
 ---  
-Title: Landing
+Title: landing
 Author: Jodi Mikesell  
 Date: September 18th, 2017
-
 ---  				
 <center> <h1>__Lorem ipsum__ </h1> </center>
 
