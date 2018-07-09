@@ -1,5 +1,5 @@
 ---  
-Title: Contact
+Title: CONTACT
 Author: Jodi Mikesell  
 Date: September 18th, 2017
 
